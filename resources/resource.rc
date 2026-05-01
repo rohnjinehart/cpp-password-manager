@@ -1,0 +1,2 @@
+// Resource file — visual styles manifest is injected via linker flag in CMakeLists.txt
+// No additional resources required.

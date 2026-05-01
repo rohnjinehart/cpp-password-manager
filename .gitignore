@@ -1,0 +1,27 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Vault data (never commit personal data)
+*.pwmv
